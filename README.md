@@ -4,6 +4,6 @@ This GitHub repo includes all of the software demonstrated in this YouTube video
 
 **super-c-64.d64** - Abacus Super C v2.0 for the C64  
 **helloWorld.d64** - Hello World source code  
-**spritedemo.d64** - Sprite demo source code.
-**cdemo.d64** - Super C Demo source code.
+**spritedemo.d64** - Sprite demo source code  
+**cdemo.d64** - Super C Demo source code  
 
